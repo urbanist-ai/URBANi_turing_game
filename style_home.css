@@ -1,0 +1,62 @@
+
+
+body{
+    color: #000000;
+    #background-image: url('https://i.gifer.com/X3uY.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+
+.stButton>.button {
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.stTextInput>div>div>input {
+    color: #000000;
+}
+
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+
+
+
+.highlight {
+  border-radius: 0.4rem;
+  color: white;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+.bold {
+  padding-left: 1rem;
+  font-weight: 700;
+}
+.blue {
+  background-color: lightcoral;
+}
+.red {
+  background-color: lightblue;
+}
+
