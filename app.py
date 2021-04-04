@@ -147,7 +147,7 @@ def main():
     st.sidebar.markdown("For more info, contact: mohamed.ibrahim.17 [at] ucl.ac.uk")
 
     
-    st.sidebar.markdown("URBAN-i: www.urban-i.ai")
+    st.sidebar.write("Check out our website: [URBAN-i](https://www.urban-i.ai)")
     st.sidebar.markdown("© 2020  All Rights Reserved. URBAN-i is a registered UK trademark with number: UK00003461106")
     
     
